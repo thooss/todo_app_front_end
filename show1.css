@@ -1,0 +1,12 @@
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+#pomodoro-estimate{
+    font-weight: bold;
+    background-color: #dbdbdb;
+    border-radius: 25px;
+    font-size: 14px;
+    padding:1px;
+}
