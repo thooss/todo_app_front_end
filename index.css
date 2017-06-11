@@ -1,22 +1,26 @@
+li{
+    width:31%;
+    margin: 8px;
+    padding: 5px;
+}
+li:hover{
+    background-color:#dbdbdb;
+}
 h1 {
     color: red;
 }
 ul {
     list-style-type: none;
 }
-li:hover{
-    background-color:#dbdbdb;
-}
-li{
-    width:31%;
-    margin: 8px;
-    padding: 5px;
-}
 .pomodoro-estimate{
     font-weight: bold;
-    background-color: #F5F5F5;
+    background-color: #dbdbdb;
     border-radius: 50px;
     font-size: 14px;
+}
+a:link {
+    text-decoration: none;
+    color:black;
 }
 #add-new-todo-button {
     font-size: 20px;
