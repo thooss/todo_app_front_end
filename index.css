@@ -8,7 +8,9 @@ li:hover{
     background-color:#dbdbdb;
 }
 li{
-    width:33%;
+    width:31%;
+    margin: 8px;
+    padding: 5px;
 }
 .pomodoro-estimate{
     font-weight: bold;
@@ -38,10 +40,9 @@ li{
 }
 #enter-todo {
     border-radius: 5px;
-}
-#enter-todo {
-    border-radius: 5px;
+    padding: 2px;
 }
 #number-of-pomodoros{
     border-radius: 5px;
+    padding: 2px;
 }
