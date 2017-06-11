@@ -43,11 +43,11 @@ a:link {
 #add-new-todo-button:hover{
     box-shadow: 1px 1px 1px #90A4AE;
 }
-#enter-todo {
+#new-todo-description {
     border-radius: 5px;
     padding: 2px;
 }
-#number-of-pomodoros{
+#new-pomodoro-estimate{
     border-radius: 5px;
     padding: 2px;
 }
