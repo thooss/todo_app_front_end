@@ -7,6 +7,9 @@ ul {
 li:hover{
     background-color:#dbdbdb;
 }
+li{
+    width:50%;
+}
 .pomodoro-estimate{
     font-weight: bold;
     background-color: #F5F5F5;
